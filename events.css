@@ -1,0 +1,32 @@
+.btn-btn {
+    background-color: transparent !important;
+    border: none;
+    color: #ffffff;
+    font-weight: bold;
+    border: none;
+}
+
+.btn-btn:hover {
+    background-color: #ffffff;
+    color: #ffffff;
+
+}
+
+.event-banner-container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 0 15px;
+    text-align: center;
+}
+
+.event-banner-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.logo img {
+    height: 40px;
+    width: auto;
+}

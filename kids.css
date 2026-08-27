@@ -1,0 +1,32 @@
+.btn-btn {
+    background-color: transparent !important;
+    border: none;
+    color: #ff477e;
+    font-weight: bold;
+    border: none !important;
+}
+
+.btn-btn:hover {
+    background-color: #fff9fb;
+    color: #ff477e;
+    border: none;
+}
+
+.logo img {
+    height: 40px;
+    width: auto;
+}
+input[type="date"] {
+    position: relative;
+    text-align: right; 
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    position: absolute;
+    left: 10px;
+    cursor: pointer;
+}
+
+input[type="date"]::-webkit-datetime-edit {
+    padding-left: 30px; 
+}
